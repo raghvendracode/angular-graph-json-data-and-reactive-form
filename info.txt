@@ -1,0 +1,10 @@
+JSON SERVER START
+
+custom-app>json server --watch db.json --port 3000   for graph1
+
+custom-app>json server --watch db1.json --port 2900   for graph2
+
+
+one graph is in app.compont.html
+
+2nd graph is in customers>customers-list
